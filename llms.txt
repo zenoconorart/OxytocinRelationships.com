@@ -1,0 +1,18 @@
+# Oxytocin Relationships
+
+Editorial site covering oxytocin, romantic relationships, touch, couple conflict, jealousy, attachment, trust and social support.
+
+## Core principles
+- Primary research is linked directly.
+- Endogenous oxytocin studies are distinguished from administered-oxytocin experiments.
+- Findings are described as context dependent where appropriate.
+- No dosing or self-administration instructions are provided.
+- Commercial affiliation with OxytoZen Lab is disclosed.
+
+## Key pages
+- /index.html — overview of oxytocin and relationship science
+- /science.html — source-linked research library
+- /editorial-policy.html — editorial standards
+
+## Commercial relationship
+OxytoZen Lab is a separate affiliated research-reagent storefront. Product links are promotional referrals.
